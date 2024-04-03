@@ -1,0 +1,10 @@
+﻿.container {
+    display: flex;
+}
+
+.side-container {
+    flex-grow: 1;
+    margin: 10px;
+    padding: 10px;
+    border: 1px solid #ccc;
+}
